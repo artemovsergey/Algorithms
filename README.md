@@ -1,4 +1,4 @@
-# Ресурсы для подготовки
+# Алгоритмы
 
 - https://leetcode.com/profile/account/
 - https://www.codewars.com/
